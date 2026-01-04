@@ -1,0 +1,25 @@
+
+⚠️ No name, no extension — just `.gitignore`
+
+---
+
+## 🔹 STEP 2: Paste this content
+
+```gitignore
+# Maven
+/target/
+
+# IDE files
+/.idea/
+*.iml
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Screenshots (optional – keep repo clean)
+screenshots/*.png
